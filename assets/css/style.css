@@ -1,0 +1,11 @@
+.sec1 {
+    background: url('../images/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+     
+    .myfilter {
+        height: 100vh;
+        background: #000000cc;
+    }
+}
